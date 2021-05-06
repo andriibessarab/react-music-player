@@ -1,0 +1,6 @@
+{
+  "short_name": "aWaves",
+  "name": "aWaves Music Player",
+  "start_url": ".",
+  "display": "standalone"
+}
